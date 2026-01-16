@@ -23,7 +23,16 @@
       "Bash(timeout 30 bats:*)",
       "mcp__sequential-thinking__sequentialthinking",
       "Bash(git fetch:*)",
-      "Bash(npm run test:unit:*)"
+      "Bash(npm run test:unit:*)",
+      "Skill(playwright-skill:playwright-skill)",
+      "Bash(python -m http.server:*)",
+      "Bash(lsof:*)",
+      "Bash(xargs kill:*)",
+      "Bash(uvicorn:*)",
+      "Bash(ngrok start:*)",
+      "Bash(curl:*)",
+      "Bash(python3:*)",
+      "Bash(ngrok http:*)"
     ],
     "deny": [],
     "ask": []
